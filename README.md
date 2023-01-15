@@ -30,36 +30,28 @@
 ![6](https://user-images.githubusercontent.com/67184635/212537982-e42e7942-748a-403a-be34-680228fbd290.png)
 
 
-## Out of back-end view: 
+# Out of back-end view: 
+## Two types of authentic admin are super admin and teacher admin.
+### First of all manage and create all.
 
+![1](https://user-images.githubusercontent.com/67184635/212566373-e3354e30-03f0-4839-8ae8-b2c62b84973d.png)
 
-![1](https://user-images.githubusercontent.com/67184635/212538024-def95df8-137a-49f4-8260-346648e0f6e2.png)
-![2](https://user-images.githubusercontent.com/67184635/212538030-bdbf4df8-6d77-45a4-9045-17950e3e6f29.png)
-![3](https://user-images.githubusercontent.com/67184635/212538033-7f5e79c0-79c1-409d-8640-3aceb1a2bd0c.png)
-![4](https://user-images.githubusercontent.com/67184635/212538037-9d3aa830-6a65-418e-b221-417980f09d2a.png)
-![5](https://user-images.githubusercontent.com/67184635/212538041-63838c5c-9e8d-441a-8c20-b45ce1182ca7.png)
+![2](https://user-images.githubusercontent.com/67184635/212566401-e77c57e1-649b-4ba4-a470-c93f65ac7c45.png)
 
+![3](https://user-images.githubusercontent.com/67184635/212566404-4936dc91-7d0f-417b-982a-e9e66ec5f6c9.png)
 
+![4](https://user-images.githubusercontent.com/67184635/212566416-04d693f0-90d7-4a96-a234-c7513f76b5d5.png)
+![5](https://user-images.githubusercontent.com/67184635/212566418-02445236-a6b9-4ece-b074-1ae291f4ae3d.png)
+![6](https://user-images.githubusercontent.com/67184635/212566420-e9aa7b9b-9a03-4f44-b5fa-f518cc1c17f0.png)
+![7](https://user-images.githubusercontent.com/67184635/212566421-d88d2cbc-4d61-49dc-8129-8460cc40676e.png)
 
+# In This here teacher admin:
+## First of all manage and create all.
 
+### Teacher can create course from category base and also manage this course.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![1](https://user-images.githubusercontent.com/67184635/212566531-e153ed8a-1e52-48c3-9e55-c8001d2a5607.png)
+![2](https://user-images.githubusercontent.com/67184635/212566534-0c5b0e06-9741-4a4e-9392-9ae65895dd0b.png)
 
 
 
