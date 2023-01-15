@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-12">
             <div class="page-title-box d-flex align-items-center justify-content-between">
-                <h4 class="mb-0 font-size-18">Dashboard</h4>
+                <h4 class="mb-0 font-size-18">Admin Dashboard</h4>
 
                 <div class="page-title-right">
                     <ol class="breadcrumb m-0">
@@ -25,7 +25,7 @@
                     <div class="row">
                         <div class="col-7">
                             <div class="text-primary p-3">
-                                <h5 class="text-primary">Welcome to Admin Dashboard !</h5>
+                                <h5 class="text-primary">Welcome to Admin Dashboard</h5>
                                 <p>Superadmin Dashboard</p>
                             </div>
                         </div>
@@ -40,8 +40,8 @@
                             <div class="avatar-md profile-user-wid mb-4">
                                 <img src="{{asset('/')}}admin/assets/images/users/avatar-1.jpg" alt="" class="img-thumbnail rounded-circle">
                             </div>
-                            <h5 class="font-size-15 text-truncate">Henry Price</h5>
-                            <p class="text-muted mb-0 text-truncate">UI/UX Designer</p>
+                            <h5 class="font-size-15 text-truncate">Mushahedur</h5>
+                            <p class="text-muted mb-0 text-truncate">PHP Developer</p>
                         </div>
 
                         <div class="col-sm-8">
